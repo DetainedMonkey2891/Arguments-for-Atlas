@@ -50,4 +50,5 @@ return {
     [74987106835953]                 = {Name = "OG Dal Hood [FANMADE]", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [10437533194]                    = {Name = "Wa Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [75198977602484]                 = {Name = "Co Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
+    [98315832518680]                 = {Name = "Da Customs", Arg = "UpdateMousePos", Remote = "MainEvent"},
 }
