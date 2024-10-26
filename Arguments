@@ -11,7 +11,7 @@ return {
     [7951883376]                     = {Name = "Hood Modded VC", Arg = "MousePos", Remote = "Bullets"},
     [77505463518573]                = {Name = "Da Downhill", Arg = "MOUSE", Remote = "MAINEVENT"},
     [14412601883]                    = {Name = "Hood Bank", Arg = "MOUSE", Remote = "MAINEVENT"},
-    [126200045632926]                = {Name = "Da Uphill", Arg = "MOUSE", Remote = "MAINEVENT"},
+    [84366677940861]                = {Name = "Da Uphill", Arg = "MOUSE", Remote = "MAINEVENT"},
     [11143225577]                    = {Name = "1v1 Hood Aim Trainer", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [14413712255]                    = {Name = "Hood Aim", Arg = "MOUSE", Remote = "MAINEVENT"},
     [16747005904]                    = {Name = "Dah Aim Trainer", Arg = "UpdateMousePos", Remote = "MainEvent"},
