@@ -20,7 +20,7 @@ return {
     [15186202290]                    = {Name = "Da Strike", Arg = "MOUSE", Remote = "MAINEVENT"},
     [18710690149]                    = {Name = "Del Hood Aim", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [17897702920]                    = {Name = "OG Da Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
-    [15655916231]                    = {Name = "Ar Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
+    [17886986441]                    = {Name = "Ar Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [17200018150]                    = {Name = "Hood Of AR", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [98963625859977]                 = {Name = "Dee Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [17897702920]                    = {Name = "Og Da Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
