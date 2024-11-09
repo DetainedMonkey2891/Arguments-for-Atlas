@@ -4,7 +4,7 @@ return {
     [18946556699]                    = {Name = "Hood Tracing", Arg = "UpdateMousePosI2", Remote = "MainEvent"},
     [16033173781]                    = {Name = "Da Hood Macro", Arg = "UpdateMousePosI2", Remote = "MainEvent"},
     [7213786345]                     = {Name = "Da Hood VC", Arg = "UpdateMousePosI2", Remote = "MainEvent"},
-    [9825515356]                     = {Name = "Hood Customs", Arg = "MousePosUpdate", Remote = "MainEvent"},
+    [9825515356]                     = {Name = "Hood Customs", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [17895632819]                    = {Name = "Hood Spirit", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [5602055394]                     = {Name = "Hood Modded", Arg = "MousePos", Remote = "Bullets"},
     [7951883376]                     = {Name = "Hood Modded VC", Arg = "MousePos", Remote = "Bullets"},
