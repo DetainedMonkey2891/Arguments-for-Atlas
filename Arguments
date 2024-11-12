@@ -61,6 +61,6 @@ return {
     [85317083713029]                 = {Name = "Da Kitty", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [18591066967]                    = {Name = "My Hood V1", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [18591761247]                    = {Name = "Adopt Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
-    [18878517673]                    = {Name = "OffRoxyz Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
+    [126518690664444]                = {Name = "HR Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
 
 }
