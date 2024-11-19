@@ -57,7 +57,7 @@ return {
     [17868905284]                    = {Name = "Klay Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [83112371772439]                 = {Name = "Rae Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [120820036566200]                = {Name = "GEROLVe Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
-    [101319991429614]                = {Name = "The Arab Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
+    [71144293443063]                = {Name = "The Arab Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [85317083713029]                 = {Name = "Da Kitty", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [18591066967]                    = {Name = "My Hood V1", Arg = "UpdateMousePos", Remote = "MainEvent"},
     [18591761247]                    = {Name = "Adopt Hood", Arg = "UpdateMousePos", Remote = "MainEvent"},
