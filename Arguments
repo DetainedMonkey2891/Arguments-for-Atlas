@@ -1,6 +1,6 @@
 return {
     ["Da Hood"] = {Arg = "UpdateMousePosI2", Remote = "MainEvent"},
-["Yeno Hood"] = {Arg = "UpdateMousePos", Remote = "MainEvent"},
+["Yeno Hood [WE ARE BACK] 🎉"] = {Arg = "UpdateMousePos", Remote = "MainEvent"},
     ["OG of Dahood"] = {Arg = "UpdateMousePos", Remote = "MainEvent"},
     ["Hood Tracing"] = {Arg = "UpdateMousePosI2", Remote = "MainEvent"},
     ["Da Hood Macro"] = {Arg = "UpdateMousePosI2", Remote = "MainEvent"},
